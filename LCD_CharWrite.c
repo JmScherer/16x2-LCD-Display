@@ -146,8 +146,7 @@ void pulse() {
 
 int main(int argc, char* argv[]) {
 	init();
-
-
+	
 	char s[256];
 
 	clear();
